@@ -1,5 +1,8 @@
 {
-  "post":[
-    {"userId": 1,"id": 1,"title":"JAVA Retrofit2","body":"RetroFit 2 Example!"}
+  "posts": [
+    {
+     "id": 1,
+     "phone": "998991234567"
+    }
   ]
 }
